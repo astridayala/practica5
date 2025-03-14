@@ -22,6 +22,9 @@ export default function DrinkCard({drink}){
                     Ver Receta
                 </button>
             </div>
+            <div>
+            
+            </div>
         </div>
     )
 }
